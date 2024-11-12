@@ -1,0 +1,2 @@
+/* I believe Tishana had initially said we could just turn in anything and she'd accept and I apparently forgot to submit that. I am putting this here as a placeholder for when I'm
+finished with my catch up, I will go back thru and complete this assignment so that I can continue forward integrating TypeScript into my assignments */
